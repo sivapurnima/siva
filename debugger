@@ -1,0 +1,252 @@
+ID	Product	Comp	Assignee	Status	Resolution	Summary	Changed
+538324	JDT	UI	jdt-ui-inbox	NEW	---	Excessive build/clean/compile/refresh cycles to get working set running again after problem fixed	28-08-18
+538325	Platform	Doc	platform-doc-inbox	CLOS	INVA	date format is not correct	28-08-18
+538326	Platform	User Ass	platform-ui-triaged	NEW	---	Stale cheatsheets give error at start up	28-08-18
+538327	Web Tool	Web Stan	wst-inbox	NEW	---	Included project jars are corrupted and rebuild as a war.	28-08-18
+538328	EGit	UI	egit.ui-inbox	NEW	---	Export History to CSV file	28-08-18
+538329	Sirius	Server	sirius.server-inbox	RESO	FIXE	The server autostart feature should be marked experimental and depend on the server itself	28-08-18
+538330	Papyrus	Designer	mdt-papyrus-inbox	RESO	FIXE	[Designer, UCM support] wrong context ID + initial model w/o stereotype	28-08-18
+538331	EMF.Diff	UI	emfdiffmerge.ui-inbox	RESO	FIXE	Dissociate label provision and diff decoration	28-08-18
+538332	Sirius	Core	sirius.core-inbox	NEW	---	Thread safe error on the VariableManager	28-08-18
+538333	4DIAC	4DIAC-ID	4diac-inbox	NEW	---	support subapps for resource reconstruction	28-08-18
+538334	Platform	Website	daniel_megert	RESO	FIXE	Project site needs some love	28-08-18
+538335	Platform	SWT	platform-swt-inbox	NEW	---	webkit2_BrowserProblem	28-08-18
+538336	Platform	Releng	sravankumarl	NEW	---	2018-09 (4.9) Acknowledgements	8:04:21
+538337	Platform	Releng	sarika.sinha	ASSI	---	Readme file for 4.9	Fri 02:59
+538338	PDE	API Tool	mistria	NEW	---	Run pde.api.tools.tests with Tycho	Fri 06:29
+538339	Papyrus	Others	nicolas.fauvergue	RESO	FIXE	[Tests] Some tests are failing due to diagram opening or closing problem	Thu 03:03
+538340	Communit	Proposal	emo	NEW	---	[release] ee4j.jaxrs 2.1.1	Thu 09:50
+538341	EMF.Diff	UI	emfdiffmerge.ui-inbox	RESO	FIXE	Support observable viewer-specific properties	28-08-18
+538342	Platform	SWT	platform-swt-inbox	NEW	---	[HiDPI][GTK] Support dynamic-scaling on DPI change	28-08-18
+538343	Communit	Gerrit	webmaster	RESO	FIXE	Permissions problem preventing push to master	Wed 10:32
+538344	JDT	Debug	jdt-debug-inbox	CLOS	DUPL	Remote debuging loses thread while standing on a breakpoint	Wed 11:37
+538345	Platform	SWT	lshanmug	RESO	FIXE	Do the Javadoc bash for 4.9	Fri 07:58
+538346	EMF.Diff	UI	emfdiffmerge.ui-inbox	RESO	FIXE	Provide an EGit-like representation of differences	28-08-18
+538347	Communit	GitHub	webmaster	REOP	---	Create GitHub repository for eclipse-ee4j/jaxb-api	Wed 05:29
+538348	Sirius	Server	sirius.server-inbox	NEW	---	Improve the Dockerfile to write resources on the host machine	28-08-18
+538349	Viatra	Query	bergmann	ASSI	---	Support a simple Viatra query instance assembled entirely backed by custom tables	28-08-18
+538350	Communit	GitHub	webmaster	REOP	---	Create GitHub repository for eclipse-ee4j/metro-saaj	Wed 05:31
+538351	Communit	GitHub	webmaster	REOP	---	Create GitHub repository for eclipse-ee4j/jaxb-dtd-parser	Wed 05:31
+538352	Communit	GitHub	webmaster	ASSI	---	Create GitHub repository for eclipse-ee4j/jaxb-fi	Wed 06:01
+538353	Communit	GitHub	webmaster	ASSI	---	Create GitHub repository for eclipse-ee4j/jaxb-stax-ex	Wed 06:14
+538354	Communit	GitHub	webmaster	ASSI	---	Create GitHub repository for eclipse-ee4j/jaxb-istack-commons	Wed 05:57
+538355	Communit	GitHub	webmaster	REOP	---	Create GitHub repository for eclipse-ee4j/saaj-api	Wed 06:19
+538356	Platform	UI	Lars.Vogel	RESO	FIXE	Add "org.eclipse.equinox.concurrent.future" to relevant feature	Wed 14:36
+538357	Equinox	Compendi	equinox.compendium-inbox	NEW	---	Memory Leak in org.eclipse.equinox.http.servlet.internal.context.ContextController	Thu 09:56
+538358	Papyrus	Others	nicolas.fauvergue	RESO	FIXE	[Tests] Some tests are failing	Thu 03:03
+538359	m2e	ui	m2e.core-inbox	NEW	---	[dark theme] 'Maven Repositories' window text is black on dark gray	28-08-18
+538360	Platform	UI	Platform-UI-Inbox	NEW	---	[E4Lifecycle]Additional Hook for e4 lifecycle class to trigger PreClose of the Workbench	Fri 04:14
+538361	Communit	CI-Jenki	ci.admin-inbox	ASSI	---	[emft.mwe] Upload problems to OSSRH	Fri 07:12
+538362	RAP	JFace	rap-inbox	NEW	---	GridEditor not re-layouted on client-side row-height change	28-08-18
+538363	Dali JPA	JPA	kchong	ASSI	---	Ensure Dali uses Apache Lucene Queryparser 7.1, not 6.1	Thu 09:50
+538364	Data Too	SQLDevTo	dtp.sqldevtools-inbox	RESO	FIXE	org.eclipse.datatools.sqltools.result should use Apache Lucene Queryparser 7.1, not 6.1	Thu 13:36
+538365	Orbit	bundles	orbit.bundles-inbox	NEW	---	Add Apache Lucene Queryparser 7.1 to Orbit	Wed 09:40
+538366	Communit	GitHub	webmaster	CLOS	FIXE	Creation of a Github repository for the Sirius project	Wed 05:19
+538367	WTP Java	jst.j2ee	stryker	NEW	---	J2EEDeployableFactory only clears the cache in its delegates, not it's own module cache	Thu 16:40
+538369	Platform	Releng	platform-releng-inbox	NEW	---	Update copyright tools to use EPL 2.0	28-08-18
+538370	EclipseL	JPA	lukas.jungmann	RESO	FIXE	Generated should be from javax.annotation.processing package on jdk9+	Fri 13:35
+538371	EclipseL	JPA	lukas.jungmann	RESO	FIXE	UnsupportedOperationException while weaving JDK11 compiled class file	Fri 13:35
+538372	ECP	Common	emfcp.common-inbox	NEW	---	More transparent and traceable communication Guidlines	28-08-18
+538373	Sirius	Diagram	sirius.diagram-inbox	NEW	---	NullPointerException in ElkGraphImporter when Use Sirius 6.0	Mon 05:10
+538374	PDE	API Tool	akurtakov	VERI	FIXE	106 PDE API tools JUnit test failures on /I20180827-2000 or later	Wed 05:50
+538376	Sirius	Core	laurent.redor	RESO	FIXE	Refresh problem for EdgeMappingImport	Fri 12:28
+538377	Platform	SWT	platform-swt-inbox	NEW	---	Java crash after org.eclipse.swt.internal.cocoa.NSApplication.setDelegate	Wed 02:48
+538378	JDT	Core	jdt-core-inbox	RESO	WORK	Open Type starts reindexing without need	Wed 04:47
+538379	4DIAC	FORTE	4diac-inbox	CLOS	FIXE	Monitoring of string with " fails	Thu 08:14
+538380	Oomph	P2 Manag	Ed.Merks	RESO	FIXE	P2 dialogs opened during self-update deadlock the UI	Fri 07:06
+538381	Platform	SWT	platform-swt-inbox	NEW	---	Loading Link class crashes with Application Verifier	Wed 06:29
+538382	4DIAC	FORTE	melik-merkumians	NEW	---	IFDEFs for Win32 in BSDSocketInterface	Wed 07:11
+538384	WTP Sour	wst.xsd	wst.xsd-inbox	NEW	---	The xsd pattern restriction behavior is inconsistent.	Wed 07:23
+538385	openk-us	General	webmaster	NEW	---	Please remove restrictions for initial commit	Fri 10:58
+538386	EGit	UI	egit.ui-inbox	NEW	---	Adding a Git repo via the keyboard does not work	Wed 08:07
+538387	4DIAC	FORTE	4diac-inbox	CLOS	FIXE	HTTP hangs after first request	Fri 08:58
+538388	Platform	Doc	platform-doc-inbox	NEW	---	N&N for eclipse 4.9	Wed 09:11
+538389	Communit	Servers	webmaster	VERI	FIXE	Can't create IP Log due to unusable slow infrastructure	Thu 03:44
+538390	PTP	Photran.	photran-inbox	NEW	---	OpenMP conditional compilation has wrong colour in editor	Wed 10:42
+538391	4DIAC	FORTE	4diac-inbox	NEW	---	Check that all types connected to FBs from HTTP are Strings	Wed 10:55
+538392	Sirius	Server	sirius.server-inbox	NEW	---	Make sure all server-related APIs and features are clearly marked as experimental/provisional	Wed 11:08
+538393	AspectJ	LTWeavin	aspectj-inbox	RESO	FIXE	NullPointerException in LTWWorld.class constructor when ClassLoader loads classes	Wed 18:51
+538394	Papyrus	Diagram	nicolas.fauvergue	ASSI	---	[Sequence Diagram] Impossible to visualize stereotype of lifelines	Wed 12:02
+538395	Tycho	Core	tycho-inbox	NEW	---	tags in genereted source-feature-xml are in wrong order	Wed 12:11
+538396	Communit	GitHub	webmaster	NEW	---	Create new microprofile-starter github repo	Wed 13:11
+538397	DLTK	Common	dltk.common-inbox	RESO	FIXE	Update DLTK to depend on RSE 4.5	Thu 10:16
+538398	Platform	IDE	Platform-UI-Inbox	NEW	---	Test Case with Tree Verifications doesn't work	Thu 04:25
+538399	Tracecom	TMF	tracecompass-inbox	NEW	---	Events viewer hangs when filtering big traces	Wed 15:19
+538400	EMF.Pars	DSL	emfparsley-inbox	NEW	---	Update to Xtext 2.15 for SimRel	Wed 15:40
+538401	Platform	IDE	Platform-UI-Inbox	RESO	DUPL	Apostrophe in contextual help changed to &apos;	Thu 07:54
+538402	Communit	Git	webmaster	RESO	FIXE	archive obsolete tm.terminal git repo	Thu 08:41
+538403	JDT	UI	mateusz.matela	VERI	FIXE	[format] align assignments in columns - UI	Thu 02:41
+538404	JDT	Debug	jdt-debug-inbox	NEW	---	Adding text to "VM arguments" field doesn't offer to Apply the changes	Thu 19:17
+538405	Platform	Releng	platform-releng-inbox	RESO	FIXE	Declare 4.9 RC1	Fri 06:21
+538406	Sirius	Table	sirius.table-inbox	CLOS	FIXE	Displaying a legend with a Table	Thu 11:02
+538407	Communit	CI-Jenki	ci.admin-inbox	CLOS	FIXE	Possiblity of adding python3 to Jenkins	Fri 06:34
+538408	Sirius	Diagram	sirius.diagram-inbox	NEW	---	Text label length calculated too long for unicode escape sequences	Thu 05:58
+538409	RAP	Other	rap-inbox	NEW	---	Website update - New RAP based platform	Thu 06:04
+538410	Ease	Engines	ease-inbox	CLOS	FIXE	[Py4J] getVariables() filters __EASE variables	Thu 07:36
+538411	AspectJ	Runtime	aspectj-inbox	NEW	---	[Question] Load classes in runtime after classloader loads it from other jar file	8:04:22
+538412	ECF	ecf.prov	ecf.core-inbox	NEW	---	XMPP Provider in ECF 3.14.2 P2 Repo does not install on Photon June 2018 JavaEE Mac OS X 64 bit Distribution	Thu 08:23
+538413	Communit	Proposal	emo	NEW	---	[release] eclipse 4.9.0	Thu 15:45
+538414	Communit	GitHub	webmaster	CLOS	FIXE	Move existing git repo to eclipse-cbi org	Fri 18:14
+538415	Sirius	Core	laurent.redor	RESO	FIXE	Refresh problem for EdgeMappingImport	Fri 12:28
+538416	TMF	Xtext	tmf.xtext-inbox	NEW	---	[releng] No interim/stable Xtext 2.15 builds/contributions	Thu 11:49
+538417	EclipseL	Foundati	eclipselink.foundation-inbox	NEW	---	CACHE CO-ORDINATION CAN RESULT IN DEADLOCK WHEN MERGE RESULTS IN A QUERY	Thu 08:59
+538418	PDT	Code Ass	php.core-inbox	NEW	---	Eclipse PDT Photon showing Variable is undefined while it's defined on another file	Thu 09:39
+538419	4DIAC	FORTE	4diac-inbox	NEW	---	Change TimerHandler to use 64 bit unsigned int instead of SForteTime struct	Sun 15:47
+538420	JDT	Core	jdt-core-inbox	CLOS	DUPL	[null][correlation] Wrong "potential null pointer access" with boolean	Thu 10:21
+538421	JDT	Core	jdt-core-inbox	NEW	---	[null][correlation] Implement correlation-aware null analysis	Thu 10:44
+538422	Communit	Proposal	emo	NEW	---	[release] modeling.tmf.xtext 2.15.0	23:19:37
+538423	Papyrus	Collabor	vincent.lorenzo	ASSI	---	Papyrus must provide a Papyrus CDO server product	Thu 10:58
+538424	Communit	IPZilla	foundation.ipzilla-inbox	NEW	---	CQ process requires to duplicate a lot of information	Thu 13:11
+538425	Platform	SWT	platform-swt-inbox	NEW	---	Image#getImageData(zoom) implementation does not auto-scale correctly on win32 and gtk	Fri 02:16
+538426	Communit	MailingL	webmaster	NEW	---	Rename lyo-dev into lyo-users and create lyo-dev	Fri 11:10
+538427	Platform	SWT	platform-swt-inbox	NEW	---	[GTK3] Crashes with X window system error	Thu 15:39
+538428	Dash	Handbook	dash-inbox	NEW	---	Add a section that describes how to be a member of the Architecture Council	Thu 11:54
+538429	JDT	UI	jjohnstn	NEW	---	Refactor InlineTempRefactoring to jdt.core.manipulation for use by jdt.ls	Thu 15:11
+538430	EGit	UI	egit.ui-inbox	NEW	---	Performance issue in image decoration	Thu 13:24
+538431	Communit	GitHub	webmaster	CLOS	FIXE	Need admin rights for ee4j.jpa github repo	Fri 13:19
+538433	JDT	Core	jdt-core-inbox	NEW	---	JUnit fails to run	Thu 18:51
+538434	Platform	IDE	Platform-UI-Inbox	NEW	---	Eclipse Photon crashes while typing code.	Fri 10:56
+538435	Mylyn Ta	Framewor	mylyn-inbox	NEW	---	Could mylyn.tasks.index.core be updated to Apache Lucene Queryparser 7.1?	Thu 23:20
+538436	JDT	Core	jdt-core-inbox	NEW	---	[test] testCreateResourceIncludedCompilationUnit fails	Fri 00:35
+538437	Platform	User Ass	Platform-UI-Inbox	NEW	---	UA is very slow	Fri 01:07
+538438	Platform	Releng	platform-releng-inbox	NEW	---	Warnings in generation of doc bundles	Fri 02:03
+538439	Platform	UI	Platform-UI-Inbox	NEW	---	org.eclipse.ui.genericeditor.tests 4 tests fail on Mac	Fri 03:05
+538440	4DIAC	FORTE	4diac-inbox	CLOS	FIXE	Cygwin won't compile latest develop	Fri 08:58
+538441	Platform	UI	Platform-UI-Inbox	REOP	---	org.eclipse.ui.genericeditor.tests testEnabledWhenCompletion test fails on linux with gtk2	Fri 04:54
+538442	Papyrus	PapyrusR	mdt-papyrus-inbox	NEW	---	[PapyrusReq] make Papyrus req build on Photon	12:18:59
+538443	JDT	UI	jdt-ui-inbox	REOP	---	org.eclipse.jdt.ui.tests AutomatedSuite 9 tests failed on linux with gtk2	Fri 04:54
+538444	Platform	Text	platform-text-inbox	NEW	---	[code mining] Draw of inlined header annotation breaks the draw of the dark scrollbar/margin	Fri 04:55
+538445	CDT	cdt-coda	cdt-codan-inbox	NEW	---	Code analysis should not be applied to files that are excluded from the build configuration	Sat 23:47
+538446	Platform	SWT	platform-swt-inbox	NEW	---	[StyledText] line background should be done only for line text	Fri 07:21
+538447	Papyrus	Designer	asma.smaoui	NEW	---	[Designer] [C Generator] SM to C code generation	Fri 10:59
+538448	Platform	Releng	platform-releng-inbox	RESO	FIXE	Move I-builds to R4_8_maintenance branch	Fri 06:37
+538449	Platform	Releng	platform-releng-inbox	RESO	FIXE	Create R4_9_maintenance branch from 4.9RC1	Fri 06:26
+538450	Platform	Releng	platform-releng-inbox	RESO	FIXE	Enable API freeze report	Fri 06:58
+538451	EPF	Tool	epf.tool-inbox	NEW	---	Text in Note objects changed alignment	Fri 05:26
+538452	Platform	Releng	platform-releng-inbox	NEW	---	Update Base builder to 4.9 RC1 to build 4.9 RC2	Fri 06:26
+538453	Platform	Releng	platform-releng-inbox	NEW	---	Update JDT core compiler and apt compiler to use 4.9RC1 to produce 4.9RC2	Fri 08:15
+538454	Communit	Bugzilla	webmaster	NEW	---	Bugzilla does not display names with special character correctlyr	Fri 06:17
+538455	Platform	UI	Platform-UI-Inbox	NEW	---	Unable to reset perspective to default	Fri 06:36
+538456	Platform	SWT	platform-swt-inbox	NEW	---	CTabFolder Chevron Ellipsis for Number of Tabs truncated	Fri 07:01
+538457	Oomph	Setup	oomph-inbox	CLOS	DUPL	UI blocked by certificates modal dialog on update	Fri 07:06
+538458	PDE	UI	pde-ui-inbox	NEW	---	No mnenonics for Dependency tab in plug-in editor	Fri 07:01
+538459	JDT	UI	karsten.thoms	ASSI	---	Wrong removal of redundant modifiers (static method in enum in interface)	Mon 04:57
+538460	EGit	UI	egit.ui-inbox	NEW	---	Compare view shows code as completely changed for unstaged file	Sun 11:34
+538461	m2e	Core	m2e.core-inbox	NEW	---	MavenBuilder scheduling rule could be null	Fri 11:11
+538462	Platform	Resource	platform-resources-inbox	NEW	---	[Builders] mixing builders with relaxed and null scheduling rule leads to workspaceRoot	Mon 04:59
+538463	4DIAC	FORTE	4diac-inbox	NEW	---	Make access to handler defines template functions	Fri 08:59
+538464	NatTable	Core	dirk.fauth	RESO	FIXE	PreserveSelectionModel - NPE on sort with SortedList only	Fri 09:22
+538465	Titan	Core	titan-inbox	NEW	---	Immutability check causes fatal errors	Fri 09:20
+538466	Papyrus	Diagram	nicolas.fauvergue	NEW	---	[Sequence] Lifelines should be resizable	Fri 09:50
+538467	Communit	Website	phoenix.ui-inbox	NEW	---	Disable comments on blogs.eclipse.org	Mon 05:57
+538468	OCL	Core	mdt-ocl-inbox	NEW	---	oclIsNew ideas	Fri 10:00
+538469	Papyrus	Table	mdt-papyrus-inbox	NEW	---	[Matrix] the fill action doesn't work in matrix	Fri 10:02
+538470	Papyrus	Diagram	nicolas.fauvergue	NEW	---	[Sequence] Execution Specifications weirdly drops outside the interaction	Fri 10:12
+538471	Papyrus	Designer	mdt-papyrus-inbox	NEW	---	[Designer] [C Generator] C Code generator for SM should support Completion Transition	Fri 10:24
+538472	Papyrus	Diagram	nicolas.fauvergue	NEW	---	[Sequence] State Invariant is missing its gradient recolor	Fri 10:27
+538473	Papyrus	Diagram	nicolas.fauvergue	NEW	---	[Sequence] State Invariant hit box is only around the lifeline	Fri 10:37
+538474	Papyrus	Designer	mdt-papyrus-inbox	NEW	---	[Designer] [C Generator] C Code generator for SM should support TimeEvent	Fri 10:33
+538475	Papyrus	Designer	mdt-papyrus-inbox	NEW	---	[Designer] [C Generator] Includes of dependencies are not generated	Fri 10:50
+538476	Papyrus	Designer	mdt-papyrus-inbox	NEW	---	[Designer] [C Generator] Signals are not generated as structures	Fri 10:51
+538477	Papyrus	Designer	mdt-papyrus-inbox	NEW	---	[Designer] [C Generator] ACSL generation	Fri 10:52
+538478	Sirius	Diagram	sirius.diagram-inbox	UNCO	---	NPE during a DND when a graphical element is above an other one which is partially hidden	Mon 04:53
+538479	ECF	ecf.remo	ecf.core-inbox	NEW	---	NPE in exportRegisteredServices	Fri 14:45
+538480	Platform	UI	fabian.pfaff	NEW	---	Offer code completion for selecting the directory in the workspace selection dialog	Sun 21:58
+538481	Communit	Website	phoenix.ui-inbox	NEW	---	Link to Awards page, clean it up	Fri 11:05
+538482	Titan	Core	titan-inbox	NEW	---	Type descriptor generation problems caused by OER fix	Fri 11:07
+538483	Sirius	Diagram	sirius.diagram-inbox	UNCO	---	NPE during a DND when a graphical element is above an other one which is partially hidden	Mon 04:41
+538484	Sirius	Diagram	sirius.diagram-inbox	UNCO	---	NPE during a DND when a graphical element is above an other one which is partially hidden	Mon 04:42
+538485	eTrice	Runtime	jan.belle	RESO	FIXE	[runtime.java] analyze and fix race condition in messaging service	Sat 07:44
+538486	Sirius	Core	laurent.redor	ASSI	---	Refresh problem for EdgeMappingImport	Fri 12:36
+538487	Platform	SWT	platform-swt-inbox	NEW	---	[Win32] GC.copyArea() and Image.getImageData() behave differently (and buggy) on HiDPI screens on Windows10 and MacOS 10.13.6.	Fri 14:28
+538488	EGit	UI	egit.ui-inbox	NEW	---	Upstream branch configuration sorted case sensitive	Sat 19:12
+538489	JDT	UI	stephan.herrmann	RESO	NOT_	The paintComponent issues a strange behavior	Fri 15:58
+538490	EGit	UI	egit.ui-inbox	RESO	FIXE	Use icon for "Stash Changes..." menu	Sun 16:47
+538491	EGit	UI	egit.ui-inbox	NEW	---	Group repository configuration menu items together	Fri 15:29
+538492	EGit	UI	egit.ui-inbox	NEW	---	NPE in git model synchronization	Sat 19:12
+538493	PDE	API Tool	pde-apitools-inbox	NEW	---	BPEL Installation error	Mon 00:04
+538495	Platform	SWT	platform-swt-inbox	NEW	---	Shell.setMinimized(true) has no effect on Linux with SWT4.9RC1	Fri 17:19
+538496	Platform	UI	Platform-UI-Inbox	NEW	---	The full workspace is gray, nothing else appears.	Fri 17:59
+538497	CDT	cdt-ardu	cdt-arduino-inbox	CLOS	FIXE	Makefile error have no idea what caused it	Fri 19:47
+538498	Sirius	Diagram	sirius.diagram-inbox	NEW	---	Arrange All Problem using Sirius & ELK	Mon 04:58
+538499	Communit	Git	webmaster	NEW	---	unable to open eclipse	Fri 23:42
+538500	Platform	IDE	Platform-UI-Inbox	NEW	---	Eclipse IDE hangs or freezes maximum time	Sat 02:01
+538501	WTP Sour	wst.xml	wst.xml-inbox	NEW	---	Show IDs and Names in the Ctrl-O (Show Outline) Dialog for XML Editor	Sat 12:47
+538502	EGit	UI	egit.ui-inbox	NEW	---	Create patch menu misses ellipsis	Sat 19:12
+538503	Xtend	Errors	xtend-inbox	ASSI	---	NumberFormatException below XtendFileHyperlink.<init> (thrown in NumberFormatException.forInputString)	Sat 05:12
+538504	Platform	Text	platform-text-inbox	NEW	---	[Performance] vertical ruler calculates all line heights unnecessarily	Sun 16:19
+538505	EGit	UI	egit.ui-inbox	NEW	---	Commit editor sets focus on commit ID label	Sat 07:35
+538506	Dali JPA	JPA	dali.general-inbox	NEW	---	Entities from Tables wizard should give possibility to define allocationSize for sequencegenerator	Sat 13:01
+538507	Dali JPA	JPA	dali.general-inbox	NEW	---	Entities from tables wizard should have the possibily to define default "version" field	Sat 13:06
+538508	CDT	cdt-inde	cdt-indexer-inbox	NEW	---	CoreException in TypeMarshalBuffer.unmarshalValue	Sat 21:10
+538509	CDT	cdt-pars	cdt-parser-inbox	NEW	---	NullPointerException in CPPSemantics.findOverloadedOperator	Sun 00:00
+538510	Platform	Doc	platform-doc-inbox	NEW	---	Platform migration missing in TOC	Sun 04:35
+538511	m2e	build	m2e.core-inbox	NEW	---	Broken i18n: Four bundles with name Bundle-Name and vendor Bundle-Vendor	Sun 06:04
+538512	JDT	Core	jdt-core-inbox	NEW	---	Cannot find the class file for Java.lang.Object after switch to Java 9	15:00:46
+538513	Platform	UI	Platform-UI-Inbox	NEW	---	Minimap should center the view instead of top aligning	Sun 14:13
+538514	CDT	cdt-ardu	cdt-arduino-inbox	NEW	---	No rule to make target... stop.	Sun 19:07
+538515	CDT	cdt-lsp	cdt-indexer-inbox	NEW	---	Add support for the ccls language server	Sun 20:59
+538516	CDT	cdt-lsp	zeratul976	NEW	---	If language server executable is moved, preference page is stuck with old location	Sun 21:15
+538517	CDT	cdt-pars	cdt-parser-inbox	NEW	---	[False positive] error with temporary in range-based for loop	Mon 00:35
+538518	JDT	UI	jdt-ui-inbox	NEW	---	[extract local] variable replace all occurrences only in nearest enclosing block	Mon 02:24
+538519	Data Too	DataTool	dtp.connectivity-inbox	NEW	---	Comparing of 2 models takes around 8 hours to complete in IDA	Mon 03:14
+538520	Linux To	Docker	jjohnstn	NEW	---	Docker connection configuration not honouring no-proxy-settings	Mon 03:22
+538521	Platform	SWT	platform-swt-inbox	CLOS	DUPL	Right mouse click event fired wrongly on macOS	Mon 04:20
+538522	Platform	Releng	platform-releng-inbox	NEW	---	Prep work for 4.10 and open master for development	Mon 05:05
+538523	Platform	Releng	sravankumarl	RESO	FIXE	Create parent pom and target sdk deployment jobs for 4.10	8:11:26
+538524	Platform	Runtime	platform-runtime-inbox	NEW	---	When failing with "The Eclipse executable launcher was unable to locate its companion shared library" offer more help	Mon 05:15
+538525	Platform	Releng	platform-releng-inbox	RESO	FIXE	Create new test jobs for 4.10	8:35:58
+538526	Platform	SWT	platform-swt-inbox	NEW	---	Configure SWT build jobs for 4.10	Mon 04:56
+538527	Communit	CI-Jenki	ci.admin-inbox	CLOS	DUPL	JIPP Kitalpha is not accessible	6:32:47
+538528	Sirius	Properti	sirius.properties-inbox	NEW	---	Wrong line selection by the Move buttons of the Reference widget	Mon 04:49
+538529	Platform	Releng	platform-releng-inbox	NEW	---	Need a new temporary splash screen for 4.10	Mon 04:49
+538530	Platform	Releng	platform-releng-inbox	NEW	---	Create 4.10-I-builds repo	Mon 04:56
+538531	Platform	Releng	platform-releng-inbox	NEW	---	POM version change for 4.10 release	Mon 04:54
+538532	Platform	Releng	platform-releng-inbox	NEW	---	Update Comparator repo and eclipse run repo to 4.10-I-builds repo	Mon 04:56
+538533	Communit	License	license	REOP	---	Broken trademark symbol at https://www.eclipse.org/legal/epl/feature.properties.txt	23:11:31
+538534	Communit	vservers	webmaster	NEW	---	A vserver for Paho	Mon 05:02
+538535	Platform	Releng	platform-releng-inbox	NEW	---	Update product version number to 4.10 across build scripts	Mon 05:04
+538536	Platform	Releng	platform-releng-inbox	NEW	---	Hide 4.10 builds from the download page	Mon 05:05
+538537	Communit	CI-Jenki	ci.admin-inbox	CLOS	FIXE	cbi JIPP is not accessible	6:32:47
+538538	Communit	CI-Jenki	ci.admin-inbox	NEW	---	newer version of GCC/G++	Mon 05:21
+538539	RAP	RWT	rap-inbox	NEW	---	Dynamic menus not hidden when selected	Mon 05:42
+538540	Target M	Terminal	tm.core-inbox	NEW	---	Unable to open a terminal anymore	Mon 05:48
+538541	Platform	Resource	platform-resources-inbox	NEW	---	workspace.getDanglingReferences() returns erroneous results in best case, AIOIBE in worst case	16:21:35
+538542	Platform	IDE	Platform-UI-Inbox	CLOS	INVA	ECLIPSE ISN'T Launching in ubuntu 16.0.4	8:39:50
+538543	lsp4e	IDE	lsp4e-inbox	NEW	---	[Diagnostics] Error highlight is not removed correctly when a diagnostic replace an another diagnostic	7:43:01
+538544	ACTF	accservi	actf.accservice-inbox	NEW	---	fix problem with error handling	6:50:22
+538545	Platform	SWT	platform-swt-inbox	NEW	---	[Wayland] Process exit (unclear if JVM "crash") with very long "hover text" under Wayland (only)	10:55:45
+538546	Orbit	bundles	orbit.bundles-inbox	NEW	---	Unresolved requirement: Import-Package: org.apache.lucene.document; core="split"; version="[7.1.0,7.2.0)"	7:14:55
+538547	CDT	cdt-ardu	cdt-arduino-inbox	NEW	---	Unresolved inclusion: <Arduino.h>	7:55:25
+538548	Platform	Debug	platform-debug-inbox	NEW	---	[debug view] Debug View in another perspective causes editor to pop-up	11:01:03
+538549	EGit	Core	egit.core-inbox	NEW	---	No branches shown for a shallow repositiry	8:53:25
+538550	Platform	IDE	Platform-UI-Inbox	NEW	---	Downloading Mylyn WikiText update throws error	9:11:38
+538551	OCL	Core	mdt-ocl-inbox	RESO	FIXE	ConcurrentModificationException below CSI2ASMapping.update (thrown in HashMap$HashIterator.nextNode)	13:17:16
+538552	AJDT	Core	AJDT-inbox	NEW	---	AJBuilder not resolving dynamic dependencies.	9:44:02
+538553	Orbit	bundles	orbit.bundles-inbox	NEW	---	Guava 21 has vulnerability and should be updated	10:07:28
+538554	Platform	Compare	platform-compare-inbox	NEW	---	Compare should detect and show moved blocks of lines	10:09:03
+538555	Orbit	bundles	orbit.bundles-inbox	NEW	---	org.apache.commons.httpclient contains vulnerabilities and should be updated	10:25:12
+538556	Papyrus	Designer	mdt-papyrus-inbox	NEW	---	[Designer][releng] Switch to EPLv2	10:58:50
+538557	Platform	SWT	platform-swt-inbox	NEW	---	Popup menu too wide	11:13:40
+538558	Platform	UI	Platform-UI-Inbox	NEW	---	Toolbars positions doesn't save	13:30:50
+538559	M2E-WTP	Core	m2e.core-inbox	NEW	---	Importing a Maven project with preconfigured APT results in genTestSrcDir being put into deployment	12:12:52
+538560	OCL	Core	mdt-ocl-inbox	RESO	FIXE	[cg] Simplify OCLinEcoreGeneratorAdapterFactory	13:17:48
+538561	M2E-WTP	Core	m2e-wtp.core-inbox	UNCO	---	genTestSrcDir in Deployment Assembly causes test classes and resources to deploy	12:10:39
+538562	JDT	UI	jdt-ui-inbox	NEW	---	Use syntax coloring to quick assist tooltip preview	16:30:02
+538563	JGit	JGit	jgit.core-inbox	NEW	---	FILE-GITLINK conflict is reported by IndexDiff as modification even if ignoreSubmodules=all	15:42:39
+538564	Platform	Releng	platform-releng-inbox	NEW	---	debug and jdt debug tests fail on startup with e4 errors since 03.09.	17:16:34
+538565	Objectte	OTEquino	objectteams.otequinox-inbox	NEW	---	Do OT/Equinox projects still need the OTRE classpath container?	16:47:49
+237 bugs found.							
+Error in f(debugonce) : !							
+Error in f(debugonce) : !							
+Error: '\U' used without hex digits in character string starting ""C:\U"							
+Error: unexpected symbol in:							
+cat(geterrmessage(),file = normalizePath(C:/Users/Admin/Downloads/bug-metrics")	append						
+stop"							
+Error in f(ID) : !							
+Error in f(ID) : !							
+Error: unexpected '(' in:							
+"})
+f <- function(browseOnce("							
+Error in f(browseOnce()) : !							
+Error in f(browseOnce()) : !							
