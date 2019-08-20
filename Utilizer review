@@ -1,0 +1,17 @@
+library(MASS)
+utilizer<- read.csv("D:/utilizer1.csv")
+sample<- read.csv("D:/sample1.csv")
+## 75% of the sample size
+smp_size <- floor( 1* nrow(utilizer))
+object.size(7)
+## set the seed to make your partition reproducible
+set.seed(234)
+train_ind <- sample(seq_len(nrow(utilizer)), size = smp_size)
+train <- sample[train_ind, ]
+test <-utilizer[train_ind, ]
+e <- new.env()
+e$sample <- 238
+e$test <-234 
+e$train <- 8 
+e$utilizer <- 11 
+set.seed(234)
